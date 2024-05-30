@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "D:/RUPP/year3 S2/CG/House G3 ITE M2/House G3 ITE M2/G3 ITE M2/G3/CG/OpenGL Programming",
+      "program": "D:/RUPP/year3 S2/CG/House G3 ITE M2/House G3 ITE M2/G3 ITE M2/G3/CG/OpenGL Programming/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
